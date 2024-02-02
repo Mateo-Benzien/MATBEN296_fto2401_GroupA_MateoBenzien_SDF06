@@ -11,7 +11,7 @@ I was lost at the start of this project and struggles to fine what was needed of
 
 
 #### Areas of Mastery
-
+I have done better wuth my Button designs.
 - **CSS Layout Techniques**:
 
 - **Responsive Design**:
@@ -21,7 +21,8 @@ Had to use a different technique to make the web page ajust to 100% of any scree
 
 #### Challenges Faced
 1/When it came to @media functions i faced a hard time trying get it to work, every time i tried to fix it removed all the images.                                     [I found away around the @media problem but it isn't what was asked or reqired.]
-
+2/Didn't know what was required by the gallery sections ,I made a scroll to view the gallery thet would respemble instagram.
+3/I struggled / messed up with my tyming and had to rush.
 
 
 
@@ -34,8 +35,10 @@ I used a button style and hover effect from a past project to add a aestheticall
 
 #### Areas for Improvement
 @media functions is my weak point
+time management 
 - **Advanced CSS Properties**: 
 Multi-colour background colour from pink to purple.
+scroll bar to vie pictures
 - **Code Optimization**: 
 
 - **Creative Design Choices**:
